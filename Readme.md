@@ -35,7 +35,7 @@ Test scripts for summer.sh using MAVEN+TESTNG+JAVA
 * [Java](https://docs.oracle.com/javase/8/docs/api/) - Used to write scripts
 
 
-## Authors
+## Author
 
 * **Anusha Nadigepu** 
 
