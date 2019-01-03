@@ -3,7 +3,7 @@
 Test scripts for summer.sh using MAVEN+TESTNG+JAVA
 
 ### Prerequisites
-- Apache Mavsen 3.6.0 should be installed
+- Apache Maven 3.6.0 should be installed
 - Java - 8 should be installed
 
 
